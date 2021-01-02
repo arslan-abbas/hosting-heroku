@@ -164,7 +164,7 @@ return [
         Maatwebsite\Excel\ExcelServiceProvider::class,
 
         Yajra\Datatables\DatatablesServiceProvider::class,
-        Barryvdh\Debugbar\ServiceProvider::class,
+//         Barryvdh\Debugbar\ServiceProvider::class,
         Barryvdh\DomPDF\ServiceProvider::class,
         ZanySoft\Zip\ZipServiceProvider::class,
 
